@@ -1,4 +1,3 @@
-readme_content = """
 # Chat with Multiple PDFs
 
 This is a Streamlit web application that allows users to chat with a conversational AI model about the content of multiple PDF documents. The application utilizes natural language processing (NLP) techniques to extract text from PDF files, split the text into chunks, and build a conversational retrieval chain for responding to user queries.
@@ -72,6 +71,3 @@ This project utilizes several open-source libraries and resources:
 
 
 """
-
-with open('README.md', 'w') as f:
-    f.write(readme_content)
